@@ -19,5 +19,6 @@
   "homepage": "https://github.com/TheoOliveira/aprendendo-mjml#readme",
   "dependencies": {
     "mjml": "^4.5.1"
-  }
+  },
+  "devDependencies": {}
 }

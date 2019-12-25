@@ -1,110 +1,90 @@
 <mjml>
-    <mj-body>   
+  <mj-body>
     <!--Nome da Empresa-->
     <mj-section background-color='#f0f0f0'>
-    
-    <mj-column>
-    <mj-text  font-style="italic"
-              font-size="20px"
-              color="#626262"
-              align='center'> 
-              Loja do Freguês   
-    </mj-text>
-    </mj-column>
+
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" color="#626262" align='center'>
+          Loja do Freguês
+        </mj-text>
+      </mj-column>
     </mj-section>
 
     <!--Image do Cabeçalho-->
-    <mj-section background-color='#f0f0f0'
-                background-url="https://images.unsplash.com/photo-1575761344173-aa186491c120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1950&q=80"
-                background-size="cover"
-                background-repeat="no-repeat">
-    <mj-column width='600px'>
-    
-        <mj-text align="center"
-                 color="#fff"
-                 font-size="40px"
-                 font-family="Arial"> Ele sempre tem razão</mj-text>   
-             
-    <mj-button background-color="#F63A4D"
-            href="#">    
-        Entra ai</mj-buttonr>
-    
-    </mj-column>
+    <mj-section background-color='#f0f0f0' background-url="https://images.unsplash.com/photo-1575761344173-aa186491c120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1950&q=80" background-size="cover" background-repeat="no-repeat">
+      <mj-column width='600px'>
+
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Arial"> Ele sempre tem razão</mj-text>
+
+        <mj-button background-color="#F63A4D" href="#">
+          Entra ai</mj-buttonr>
+
+      </mj-column>
     </mj-section>
 
     <!--Texto de Introdução-->
     <mj-section background-color='#fafafa'>
-        <mj-column width="400px">
+      <mj-column width="400px">
 
-            <mj-text align="center"
-                     font-style="italic"
-                     font-size="20px"
-                     font-family="Arial"
-                     color="#626262">Aute ex consequat dolor laborum.</mj-text>
+        <mj-text align="center" font-style="italic" font-size="20px" font-family="Arial" color="#626262">Aute ex consequat dolor laborum.</mj-text>
 
-            <mj-text color="#525252"
-                     align="justify">
-                Consequat in Lorem magna reprehenderit laborum proident nisi aliquip. Do sit aliqua qui in irure do. Adipisicing laboris exercitation dolore incididunt eu in fugiat cupidatat cupidatat.
-            </mj-text>
+        <mj-text color="#525252" align="justify">
+          Consequat in Lorem magna reprehenderit laborum proident nisi aliquip. Do sit aliqua qui in irure do. Adipisicing laboris exercitation dolore incididunt eu in fugiat cupidatat cupidatat.
+        </mj-text>
 
-            <mj-button align="center" background-color="#F45E43" href="#">Saiba mais</mj-button>
-    
-    
-    
+        <mj-button align="center" background-color="#F45E43" href="#">Saiba mais</mj-button>
+
+
+
     </mj-section>
 
     <!--Seção com 2 colunas-->
     <mj-section background-color="white">
-    
-    <!--Image Esquerda-->
-    <mj-column>
-        <mj-image width="200px"
-                  src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg"  >
-    
-    </mj-column>
 
-    <!--Paragrafo direito-->
-    <mj-column>
-        <mj-text font-style="italic"
-                 font-size="20px"
-                 font-family="Arial"
-                 color="#626262"
-                 align="justify">
-Pariatur minim proident non mollit commodo    
-    <mj-text color="#525252">
-    Lorem ipsum aliqua reprehenderit id dolore voluptate nisi dolore culpa eu sint est non.
-    </mj-text>
-    </mj-column>
+      <!--Image Esquerda-->
+      <mj-column>
+        <mj-image width="200px" src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg">
+
+      </mj-column>
+
+      <!--Paragrafo direito-->
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Arial" color="#626262" align="justify">
+          Pariatur minim proident non mollit commodo
+          <mj-text color="#525252">
+            Lorem ipsum aliqua reprehenderit id dolore voluptate nisi dolore culpa eu sint est non.
+          </mj-text>
+      </mj-column>
     </mj-section>
 
     <!--Icones-->
     <mj-section background-color='#fbfbfb'>
-        <mj-column>
-        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0l.png"/>
-        </mj-column>
-        <mj-column>
-        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x01.png"/>
-        </mj-column>
-        <mj-column>
-        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0s.png"/>
-        </mj-column>
-    
-    
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0l.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x01.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0s.png" />
+      </mj-column>
+
+
     </mj-section>
 
     <!--Icones de Midia Social-->
     <mj-section background-color='#f0f0f0'>
-    <mj-column>
-    <mj-social>
-    <mj-social-element name="facebook"/>
-    <mj-social-element name="instagram"/>
-    <mj-social-element name="twitter"/>
+      <mj-column>
+        <mj-social>
+          <mj-social-element name="facebook" />
+          <mj-social-element name="instagram" />
+          <mj-social-element name="twitter" />
 
-    </mj-social>
-    </mj-column>
-    
+        </mj-social>
+      </mj-column>
+
     </mj-section>
 
-    </mj-body>
+  </mj-body>
 
 </mjml>
