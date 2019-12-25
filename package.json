@@ -1,0 +1,23 @@
+{
+  "name": "aprendendo-mjml",
+  "version": "1.0.0",
+  "description": "repo para meu processo de estudo do framework MJML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoOliveira/aprendendo-mjml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoOliveira/aprendendo-mjml/issues"
+  },
+  "homepage": "https://github.com/TheoOliveira/aprendendo-mjml#readme",
+  "dependencies": {
+    "mjml": "^4.5.1"
+  }
+}
