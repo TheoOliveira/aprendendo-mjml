@@ -1,4 +1,10 @@
+
+<!--MJML serve para criar mensagem de email marketing e assinaturas de email 
+que sejam responsivas e possuam outros elementos a mais para mensagens de email-->
 <mjml>
+
+<!--MJML usa basicamente todas as tags de html com mj- na frente.-->
+<!--Toda seção no mjml precisa de que cada elemento esteja dentro de um coluna (mj-column)-->
   <mj-body>
     <!--Nome da Empresa-->
     <mj-section background-color='#f0f0f0'>
